@@ -1,0 +1,99 @@
+.login-page-background{
+    -webkit-filter: blur(5px);
+    -moz-filter: blur(5px);
+    -o-filter: blur(5px);
+    -ms-filter: blur(5px);
+    filter: blur(20px);
+    position: absolute;
+    z-index: -1;
+    height: 900px;
+    /* width: 800px; */
+}
+
+.login-background-image{
+	height: 1910px;
+    width: 977px;
+}
+
+.login-page{
+	color: white;
+	text-align: center;
+}
+
+.login-page-text{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 90px;
+}
+
+.login-page-text-top{
+	position: relative;
+    left: -50px;
+}
+
+.login-page-text-bottom{
+	position: relative;
+    left: 50px;
+}
+.login-details-box{
+    width: 600px;
+    margin: 0px auto;
+    padding-top: 200px;
+}
+
+
+.login-page-input{
+	width: 500px;
+    display: block;
+    margin: 30px auto;
+    text-align: center;
+    font-size: 35px;
+    padding: 29px;
+    border-radius: 100px;
+    background: transparent;
+    border: solid 2px white;
+    margin-top: 105px;
+    color: white;
+}
+
+.login-page-input-password{
+	margin-top: 5px;
+}
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: white;
+    opacity: 1; /* Firefox */
+}
+
+.login-page-button{
+	width: 500px;
+    display: block;
+    margin: 30px auto;
+    text-align: center;
+    font-size: 40px;
+    padding: 29px;
+    border-radius: 100px;
+    background: transparent;
+    border: solid 2px white;
+    margin-top: 105px;
+    color: #1f3a00;
+    background: white;
+    font-size: 30px;
+    font-family: sans-serif;
+}
+
+
+.login-page-button:active{
+		background: #b3b3b3;
+}
+.login-footer{
+    margin-top: 200px;
+}
+
+.login-footer-text{
+	 font-size: 30px;
+    font-family: sans-serif;
+    margin: 20px;
+}
+
+.login-footer-img{
+	    width: 600px;
+}
