@@ -1,0 +1,73 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.container-fluid{
+    margin: 0;
+    padding: 0;
+}
+nav {
+	height: 100px;
+	background-color: #E65100;
+}
+
+.card{
+    margin: 10px;
+    display: inline-block;
+}
+
+.card-body{
+    display: inline-block;
+}
+
+.img-wrapper img{
+    
+width: 100%;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+* {margin: 0; padding: 0;}
+
+.sightList {
+  margin: 20px;
+}
+
+ul {
+  list-style-type: none;
+  width: 500px;
+}
+
+h3 {
+  font: bold 20px/1.5 Helvetica, Verdana, sans-serif;
+}
+
+li img {
+  float: left;
+  margin: 0 15px 0 0;
+    width: 100px;
+}
+
+li p {
+  font: 200 12px/1.5 Georgia, Times New Roman, serif;
+}
+
+li {
+  padding: 10px;
+  overflow: auto;
+    width:900px;
+}
+
+li:hover {
+  background: #eee;
+  cursor: pointer;
+}
+
+.sightListItem p{
+    font-size: 20px;
+}
+
+.sightName{
+    color: #E65100;
+}

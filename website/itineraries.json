@@ -1,0 +1,144 @@
+[
+	{
+		"tripName":"Heart of Pink City",
+		"sightsCount": "8",
+		"rating": "4.5",
+		"totalTime": "8 Hours",
+		"imageSrc": "./res/img/curate1.jpg",
+        "tripDesc":"Dive straight into the heart of Pink City.",
+		"sightsList":[
+			{
+				"sightName": "City Palace",
+				"timeRequired": "2 Hours",
+				"timeToReach": "10 minutes"
+			},
+			{
+				"sightName": "Jantar Mantar - Jaipur",
+				"timeRequired": "1 Hour",
+				"timeToReach": "8 minutes"
+			},
+			{
+				"sightName": "Hawa Mahal",
+				"timeRequired": "30 Minutes",
+				"timeToReach": "11 minutes"
+			},
+			{
+				"sightName": "Albert Hall Museum",
+				"timeRequired": "1 Hour 30 Minutes",
+				"timeToReach": "7 minutes"
+			},
+			{
+				"sightName": "Central Park",
+				"timeRequired": "15 Minutes",
+				"timeToReach": "10 minutes"
+			},
+			{
+				"sightName": "B.M. Birla Planetarium",
+				"timeRequired": "1 Hour",
+				"timeToReach": "5 minutes"
+			},
+			{
+				"sightName": "Raj Mandir Cinema",
+				"timeRequired": "2 Hours",
+				"timeToReach": "10 minutes"
+			},
+			{
+				"sightName": "City Palace",
+				"timeRequired": "2 Hours",
+				"timeToReach": "10 minutes"
+			},
+			{
+				"sightName": "Lakshmi Narayan Temple",
+				"timeRequired": "30 Minutes",
+				"timeToReach": "15 minutes"
+			}
+		]
+	},
+
+	{
+		"tripName":"North of Jaipur City",
+		"sightsCount": "6",
+		"rating": "4",
+		"totalTime": "5 Hours",
+        "tripDesc":"Explore the mysteries of North Jaipur.",
+		"imageSrc": "./res/img/curate2.jpg",
+		"sightsList":[
+			{
+				"sightName": "Jal Mahal",
+				"timeRequired": "2 Hours",
+				"timeToReach": "10 minutes"
+			},
+			{
+				"sightName": "Amber Palace",
+				"timeRequired": "1 Hour",
+				"timeToReach": "8 minutes"
+			},
+			{
+				"sightName": "Shila Mata Mandir",
+				"timeRequired": "30 Minutes",
+				"timeToReach": "11 minutes"
+			},
+			{
+				"sightName": "Sheesh Mahal",
+				"timeRequired": "1 Hour 30 Minutes",
+				"timeToReach": "7 minutes"
+			},
+			{
+				"sightName": "Jaigarh Fort",
+				"timeRequired": "15 Minutes",
+				"timeToReach": "10 minutes"
+			},
+			{
+				"sightName": "Nahargarh Fort",
+				"timeRequired": "1 Hour",
+				"timeToReach": "5 minutes"
+			},
+			{
+				"sightName": "Raj Mandir Cinema",
+				"timeRequired": "2 Hours",
+				"timeToReach": "10 minutes"
+			},
+			{
+				"sightName": "City Palace",
+				"timeRequired": "2 Hours",
+				"timeToReach": "10 minutes"
+			},
+			{
+				"sightName": "Lakshmi Narayan Temple",
+				"timeRequired": "30 Minutes",
+				"timeToReach": "15 minutes"
+			}
+		]
+	},
+
+	{
+		"tripName":"Markets of Jaipur",
+		"sightsCount": "6",
+		"rating": "4",
+		"totalTime": "5 Hours",
+        "tripDesc":"Shop at famous marketplaces of Jaipur.",
+		"imageSrc": "./res/img/curate3.jpg",
+		"sightsList":[
+			{
+				"sightName": "Tripolia Bazar",
+				"timeRequired": "1 Hours",
+				"timeToReach": "8 minutes"
+			},
+			{
+				"sightName": "Krishnapole Bazar",
+				"timeRequired": "2 Hour",
+				"timeToReach": "16 minutes"
+			},
+			{
+				"sightName": "Bapu Bazar",
+				"timeRequired": "30 Minutes",
+				"timeToReach": "11 minutes"
+			},
+			{
+				"sightName": "Sheesh Mahal",
+				"timeRequired": "1 Hour",
+				"timeToReach": "6 minutes"
+			}
+		]
+	}
+]
